@@ -10,7 +10,7 @@
 
 #Kaggle
 
-![kaggle](kaggle.png)  
+![kaggle](Kaggle.png)  
 
 
 
