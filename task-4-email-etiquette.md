@@ -15,8 +15,8 @@ I sincerely apologize for any inconvenience caused. I am committed to completing
 Thank you for your understanding and consideration. I look forward to your response.
 
 Yours sincerely,  
-Aryan Ajaykumar Jha
-First Year, CSE AIML
+Aryan Ajaykumar Jha  
+First Year, CSE AIML  
 VIT Bhopal  
 
 ---
@@ -36,6 +36,6 @@ I would be grateful for the opportunity to be considered for an internship posit
 Thank you for your time and consideration.
 
 Yours sincerely,  
-Aryan Ajaykumar Jha
-First Year,  CSE AIML
-VIT Bhopal
+Aryan Ajaykumar Jha  
+First Year,  CSE AIML  
+VIT Bhopal  
