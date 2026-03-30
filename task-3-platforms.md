@@ -1,4 +1,4 @@
-# Hacker rank
+# Hacker Rank
 
 ![Hackerrank](Hackerrank.png)
 
