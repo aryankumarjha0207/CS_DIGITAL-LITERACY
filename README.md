@@ -2,10 +2,10 @@
 # Digital Literacy Project
 ## About Me
 *Name-* Aryan Ajaykumar Jha  
-*Reg No.-* 25BAI10517 
-*Year-* First-year  
-*Branch-* B.Tech CSE AIML
-*Course Code-* CSE0001  
+*Reg No.-* 25BAI10517   
+*Year-* First-year    
+*Branch-* B.Tech CSE AIML  
+*Course Code-* CSE0001    
 
 ## Project Overview
 
