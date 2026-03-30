@@ -4,7 +4,7 @@
 
 #LinkedIn
 
-![LinkedIn](LinkedIn_1.png)  
+![LinkedIn](LInkedIn_1.png)  
 
 ![LinkedIn](LinkedIn_2.png)  
 
