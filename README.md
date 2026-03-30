@@ -33,4 +33,3 @@ Hands-on project building digital literacy skills through five tasks: Canva info
 - *Digital Literacy Awareness Quiz(Google Forms)*: [Take Quiz](https://docs.google.com/forms/d/e/1FAIpQLSch6CO8ddSA3K5MNZnAqXDEOz4EQU-I75ohqxqb6KywrPovdQ/viewform)  
 - *GitHub Repo*: https://github.com/aryankumarjha0207/CS_DIGITAL-LITERACY  
 - *LinkedIn Profile*: https://www.linkedin.com/in/aryan-j-bb2119378/
-- *Kaggle*: https://www.kaggle.com/aryanjha25bai10517
