@@ -1,8 +1,8 @@
-# Hackerrank
+# Hacker rank
 
 ![Hackerrank](Hackerrank.png)
 
-# Google_Forms
+# Google Forms
 
 ![Google_forms_1](Google_forms_1.png)
 
